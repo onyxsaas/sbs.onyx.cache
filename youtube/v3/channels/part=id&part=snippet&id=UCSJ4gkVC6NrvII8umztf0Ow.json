@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "kpEHpHC4mc2ZvKZ8zIHc9OkzOIk",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "9Mdx1TuqRmEBnb1-QOVjyiHjImA",
+            "id": "UCSJ4gkVC6NrvII8umztf0Ow",
+            "snippet": {
+                "title": "Lofi Girl",
+                "description": "\ud83c\udfb6 | study - chill - sleep - repeat\n\n\ud83c\udfa7 | Listen on Spotify, Apple music and more\n\u2192   https:\/\/bit.ly\/lofigirl-playlists\n\n\ud83d\udcac | Join the Lofi Girl community \n\u2192   https:\/\/bit.ly\/lofigirl-discord\n\u2192   https:\/\/bit.ly\/lofigirl-reddit\n\n\ud83c\udf0e | Lofi Girl on all social media\n\u2192   https:\/\/bit.ly\/lofigirl-sociaI\n",
+                "customUrl": "lofigirl",
+                "publishedAt": "2015-03-18T15:36:55Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLRBxyT5Y9xKYWPmnShA_utGUvcJnxWaFmc0CtWTkg=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLRBxyT5Y9xKYWPmnShA_utGUvcJnxWaFmc0CtWTkg=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLRBxyT5Y9xKYWPmnShA_utGUvcJnxWaFmc0CtWTkg=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Lofi Girl",
+                    "description": "\ud83c\udfb6 | study - chill - sleep - repeat\n\n\ud83c\udfa7 | Listen on Spotify, Apple music and more\n\u2192   https:\/\/bit.ly\/lofigirl-playlists\n\n\ud83d\udcac | Join the Lofi Girl community \n\u2192   https:\/\/bit.ly\/lofigirl-discord\n\u2192   https:\/\/bit.ly\/lofigirl-reddit\n\n\ud83c\udf0e | Lofi Girl on all social media\n\u2192   https:\/\/bit.ly\/lofigirl-sociaI\n"
+                },
+                "country": "FR"
+            }
+        }
+    ]
+}
