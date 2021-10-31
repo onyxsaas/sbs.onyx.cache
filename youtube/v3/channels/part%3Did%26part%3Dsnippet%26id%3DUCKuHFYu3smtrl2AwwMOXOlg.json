@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "MJTyLZGnrxxHDvY80AYBoHKlDT4",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "1rnMtjujv6FIVqYF8kzfMopylio",
+            "id": "UCKuHFYu3smtrl2AwwMOXOlg",
+            "snippet": {
+                "title": "Will Smith",
+                "description": "The official YouTube channel for Will Smith",
+                "customUrl": "willsmith",
+                "publishedAt": "2017-12-15T03:00:56Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLT5aQSz6uPsLW13bLlAAu2cyNSu0xzhUsxWqjUuKQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLT5aQSz6uPsLW13bLlAAu2cyNSu0xzhUsxWqjUuKQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLT5aQSz6uPsLW13bLlAAu2cyNSu0xzhUsxWqjUuKQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Will Smith",
+                    "description": "The official YouTube channel for Will Smith"
+                },
+                "country": "US"
+            }
+        }
+    ]
+}
