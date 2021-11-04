@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "00EBhPvVImRrheaYMKdk_suBfvg",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "6uzG0RIeCEPtNLbV22wkdsU6WIs",
+            "id": "UCEcMWs6GudljuLw0-Umf97A",
+            "snippet": {
+                "title": "Spirit Science",
+                "description": "Spirit Science is a platform for the evolution of consciousness! Weaving science and spirituality together to find the deeper meaning behind the mysteries of life, and change the world in the process!\n\nWe're so glad you are here! It's always a joy to read and respond to your comments across our website, YouTube, and other social channels. Thank you for participating in the global conversation!",
+                "customUrl": "thespiritscience",
+                "publishedAt": "2011-12-29T05:49:29Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLQ8UrdWJVmZVQaMFy_UK8zzM-CEZkKjf1R9dGmC=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLQ8UrdWJVmZVQaMFy_UK8zzM-CEZkKjf1R9dGmC=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLQ8UrdWJVmZVQaMFy_UK8zzM-CEZkKjf1R9dGmC=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Spirit Science",
+                    "description": "Spirit Science is a platform for the evolution of consciousness! Weaving science and spirituality together to find the deeper meaning behind the mysteries of life, and change the world in the process!\n\nWe're so glad you are here! It's always a joy to read and respond to your comments across our website, YouTube, and other social channels. Thank you for participating in the global conversation!"
+                },
+                "country": "CA"
+            }
+        }
+    ]
+}
