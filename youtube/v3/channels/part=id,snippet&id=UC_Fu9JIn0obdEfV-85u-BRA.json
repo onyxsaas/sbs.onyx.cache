@@ -1,0 +1,42 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "clzJ6jjmOVLdd0CIy1rfP14-z34",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "BzaB6PInHjLjfkg697aSK92Vl3U",
+            "id": "UC_Fu9JIn0obdEfV-85u-BRA",
+            "snippet": {
+                "title": "A TS",
+                "description": "Like\nComment\nShare\n& Subscribe",
+                "customUrl": "amitthakurtz",
+                "publishedAt": "2016-01-23T13:19:09Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLTh3cHgtmA0XDzHJvudUwFJGjRBH7r-XR-hyKI9Ts4=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLTh3cHgtmA0XDzHJvudUwFJGjRBH7r-XR-hyKI9Ts4=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLTh3cHgtmA0XDzHJvudUwFJGjRBH7r-XR-hyKI9Ts4=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "A TS",
+                    "description": "Like\nComment\nShare\n& Subscribe"
+                }
+            }
+        }
+    ]
+}
