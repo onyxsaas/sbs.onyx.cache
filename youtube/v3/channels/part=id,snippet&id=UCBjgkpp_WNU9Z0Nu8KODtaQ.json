@@ -1,0 +1,41 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "6j-FIZcHbzar3nXQyowzWXNsX-Y",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "Y6aMAlgNKAz2_4eeATRlulThyB8",
+            "id": "UCBjgkpp_WNU9Z0Nu8KODtaQ",
+            "snippet": {
+                "title": "THE ANIME'S GRANDMOTHER",
+                "description": "BEST ANIMES DUB\/SUB\n\n:D\n",
+                "publishedAt": "2021-05-26T23:22:56.679475Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/EQiodOldPrr9dhvVwbXd-ZvPyXCtXt75UXHYVNPQN4W-LzNcrIj1lWwAv6FH06CIjj_KE40CcQ=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/EQiodOldPrr9dhvVwbXd-ZvPyXCtXt75UXHYVNPQN4W-LzNcrIj1lWwAv6FH06CIjj_KE40CcQ=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/EQiodOldPrr9dhvVwbXd-ZvPyXCtXt75UXHYVNPQN4W-LzNcrIj1lWwAv6FH06CIjj_KE40CcQ=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "THE ANIME'S GRANDMOTHER",
+                    "description": "BEST ANIMES DUB\/SUB\n\n:D\n"
+                }
+            }
+        }
+    ]
+}
