@@ -1,0 +1,85 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "af6C2e7Ou2H9WPLMVfj_A6yvTXY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "GSVD3BqS2OUm0SA-l2nx259Y3AQ",
+            "id": "IxRfDtaot5U",
+            "snippet": {
+                "publishedAt": "2014-08-22T18:34:00Z",
+                "channelId": "UCShHFwKyhcDo3g7hr4f1R8A",
+                "title": "The Invisible Reality: The Wonderful Weirdness of the Quantum World",
+                "description": "Proposed a century ago to better explain the mind-bending behavior of the smallest constituents of the universe, quantum theory has implications far beyond the atom. This rich set of laws has applications both practical and extraordinary \u2014 from the technology that has revolutionized modern life to the possibility of parallel worlds.\n\nOur audience joined Alan Alda as he accompanied Brian Greene, Nobel Laureate William Phillips and other leading thinkers at the vanguard of quantum research on an accessible multimedia exploration of the astounding weirdness of the quantum world.\n\nThis program is part of the Big Ideas Series, made possible with support from the John Templeton Foundation.\n\nThe World Science Festival gathers great minds in science and the arts to produce live and digital content that allows a broad general audience to engage with scientific discoveries. Our mission is to cultivate a general public informed by science, inspired by its wonder, convinced of its value, and prepared to engage with its implications for the future.\nSubscribe to our YouTube Channel for all the latest from WSF.\nVisit our Website: http:\/\/www.worldsciencefestival.com\/\nLike us on Facebook: https:\/\/www.facebook.com\/worldsciencefestival\nFollow us on twitter: https:\/\/twitter.com\/WorldSciFest\n\nOriginal Program date: May 30, 2008\nMODERATOR: Alan Alda\nPARTICIPANTS: David Z. Albert, Brian Greene, Max Tegmark, William Phillips\n\nBrian Greene Introduces quantum physics 00:00\n\nA throw of the dice dance performance. 21:15\n\nParticipant Introductions. 22:54\n\nAre probability waves real? 25:55\n\nBrian Greene on the accuracy of quantum mechanics 37:30\n\nEinstein says that nothing is random. 47:56\n\nQuantum entanglement 51:10\n\nNot enough information in the universe for a 400 bit quantum computer 01:09:41\n\nIs there something missing from Quantum Physics? 01:22:15",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/i.ytimg.com\/vi\/IxRfDtaot5U\/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https:\/\/i.ytimg.com\/vi\/IxRfDtaot5U\/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https:\/\/i.ytimg.com\/vi\/IxRfDtaot5U\/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https:\/\/i.ytimg.com\/vi\/IxRfDtaot5U\/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https:\/\/i.ytimg.com\/vi\/IxRfDtaot5U\/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "World Science Festival",
+                "tags": [
+                    "The Invisible Reality",
+                    "Wonderful Weirdness of the Quantum World",
+                    "Quantum Mechanics (Field Of Study)",
+                    "Brian Greene",
+                    "David Albert",
+                    "Max Tegmark",
+                    "William Phillips",
+                    "Nobel Laureate",
+                    "Alan Alda",
+                    "Quantum",
+                    "the universe",
+                    "parallel worlds",
+                    "quantum theory",
+                    "beyond the atom",
+                    "laws of physics",
+                    "physics",
+                    "John Templeton Foundation",
+                    "New York City",
+                    "NYC",
+                    "world science festival",
+                    "World",
+                    "Science",
+                    "Festival",
+                    "full program",
+                    "2008",
+                    "Big Ideas Series"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "The Invisible Reality: The Wonderful Weirdness of the Quantum World",
+                    "description": "Proposed a century ago to better explain the mind-bending behavior of the smallest constituents of the universe, quantum theory has implications far beyond the atom. This rich set of laws has applications both practical and extraordinary \u2014 from the technology that has revolutionized modern life to the possibility of parallel worlds.\n\nOur audience joined Alan Alda as he accompanied Brian Greene, Nobel Laureate William Phillips and other leading thinkers at the vanguard of quantum research on an accessible multimedia exploration of the astounding weirdness of the quantum world.\n\nThis program is part of the Big Ideas Series, made possible with support from the John Templeton Foundation.\n\nThe World Science Festival gathers great minds in science and the arts to produce live and digital content that allows a broad general audience to engage with scientific discoveries. Our mission is to cultivate a general public informed by science, inspired by its wonder, convinced of its value, and prepared to engage with its implications for the future.\nSubscribe to our YouTube Channel for all the latest from WSF.\nVisit our Website: http:\/\/www.worldsciencefestival.com\/\nLike us on Facebook: https:\/\/www.facebook.com\/worldsciencefestival\nFollow us on twitter: https:\/\/twitter.com\/WorldSciFest\n\nOriginal Program date: May 30, 2008\nMODERATOR: Alan Alda\nPARTICIPANTS: David Z. Albert, Brian Greene, Max Tegmark, William Phillips\n\nBrian Greene Introduces quantum physics 00:00\n\nA throw of the dice dance performance. 21:15\n\nParticipant Introductions. 22:54\n\nAre probability waves real? 25:55\n\nBrian Greene on the accuracy of quantum mechanics 37:30\n\nEinstein says that nothing is random. 47:56\n\nQuantum entanglement 51:10\n\nNot enough information in the universe for a 400 bit quantum computer 01:09:41\n\nIs there something missing from Quantum Physics? 01:22:15"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

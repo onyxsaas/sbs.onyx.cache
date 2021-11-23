@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "Qs5ELZl1Wew9sh4H4xxU_HMV7tw",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "MkST37QXrVtZ9GNPjLlttRurguA",
+            "id": "UCSk8Ys0LqZF8sjcOUCnFN3Q",
+            "snippet": {
+                "title": "Engineering Made Easy",
+                "description": "You can Visit my Blog for more info-\nwww.engineeringmadeeasypro.com\nSupport me on Patreon \nhttps:\/\/www.patreon.com\/user?u=20310205\n\n*Why I Need Your SUPPORT?\nHi my dear friends, I am Lalit Vashishtha. I upload videos regularly on my YouTube channel \"Engineering Made Easy\u201d related to engineering subjects. But it's not an easy task. I need to put lots of efforts and time to create high quality content regularly for my viewers.\nAs I am a full time YouTuber, It is the only source of my income. So friends I really need your support, so that I can continue to support you back by creating good quality content and grow the YouTube channel to a bigger level. \n\n*Your BENEFITS of supporting me on Patreon\nFriends, I will mention your name and support in my YouTube videos. you can also ask me to make videos on certain topics of your choice.\n\n*See my WORK-\nVisit my Youtube Channel here-\nhttps:\/\/www.youtube.com\/channel\/UCSk8Ys0LqZF8sjcOUCnFN3Q\/featured?disable_polymer=1",
+                "customUrl": "engineeringmadeeasy",
+                "publishedAt": "2017-02-10T15:03:40Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLRqhhc8IQsAxmMoBa5MnPYLgnwIIEeX3YsTB4Wj=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLRqhhc8IQsAxmMoBa5MnPYLgnwIIEeX3YsTB4Wj=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/ytc\/AKedOLRqhhc8IQsAxmMoBa5MnPYLgnwIIEeX3YsTB4Wj=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Engineering Made Easy",
+                    "description": "You can Visit my Blog for more info-\nwww.engineeringmadeeasypro.com\nSupport me on Patreon \nhttps:\/\/www.patreon.com\/user?u=20310205\n\n*Why I Need Your SUPPORT?\nHi my dear friends, I am Lalit Vashishtha. I upload videos regularly on my YouTube channel \"Engineering Made Easy\u201d related to engineering subjects. But it's not an easy task. I need to put lots of efforts and time to create high quality content regularly for my viewers.\nAs I am a full time YouTuber, It is the only source of my income. So friends I really need your support, so that I can continue to support you back by creating good quality content and grow the YouTube channel to a bigger level. \n\n*Your BENEFITS of supporting me on Patreon\nFriends, I will mention your name and support in my YouTube videos. you can also ask me to make videos on certain topics of your choice.\n\n*See my WORK-\nVisit my Youtube Channel here-\nhttps:\/\/www.youtube.com\/channel\/UCSk8Ys0LqZF8sjcOUCnFN3Q\/featured?disable_polymer=1"
+                },
+                "country": "IN"
+            }
+        }
+    ]
+}

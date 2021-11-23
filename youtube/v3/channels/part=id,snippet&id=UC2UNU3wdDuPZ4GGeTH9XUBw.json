@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "xCJzYsiezLn4BEirlpKDVq0qzxY",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "k0-btS7qfDdjaWX4_NTTlbemsZI",
+            "id": "UC2UNU3wdDuPZ4GGeTH9XUBw",
+            "snippet": {
+                "title": "Knowledge is Power - Gary Lite",
+                "description": "This channel is about ancient hidden knowledge and the mysterious secrets of the earth.",
+                "customUrl": "garylite",
+                "publishedAt": "2013-03-04T18:23:47Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https:\/\/yt3.ggpht.com\/oxj5G_9xbpuAqLQp616HxZF6e-ORPA2oUT17DQ8A1JJ4gcC4xQUDM4QoRGvLSEf4dvmbGQO0=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https:\/\/yt3.ggpht.com\/oxj5G_9xbpuAqLQp616HxZF6e-ORPA2oUT17DQ8A1JJ4gcC4xQUDM4QoRGvLSEf4dvmbGQO0=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https:\/\/yt3.ggpht.com\/oxj5G_9xbpuAqLQp616HxZF6e-ORPA2oUT17DQ8A1JJ4gcC4xQUDM4QoRGvLSEf4dvmbGQO0=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Knowledge is Power - Gary Lite",
+                    "description": "This channel is about ancient hidden knowledge and the mysterious secrets of the earth."
+                },
+                "country": "CA"
+            }
+        }
+    ]
+}
